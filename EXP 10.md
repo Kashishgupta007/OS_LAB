@@ -1,6 +1,6 @@
 ```c
-Name: Ritika Bhoyar
-PRN: 24070521225
+Name: Kashish Gupta
+PRN: 24070521235
 ```
 
 # Experiment 10: Shell Script - if-else Conditional Statement
