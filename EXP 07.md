@@ -1,6 +1,6 @@
 ```c
-Name: Ritika Bhoyar
-PRN: 24070521225
+Name: Kashish Gupta
+PRN: 24070521235
 ```
 
 # Experiment 7: Banker's Algorithm for Deadlock Avoidance
