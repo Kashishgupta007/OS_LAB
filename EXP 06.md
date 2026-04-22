@@ -1,6 +1,6 @@
 ```c
-Name: Ritika Bhoyar
-PRN: 24070521225
+Name: Kashish Gupta
+PRN: 24070521235
 ```
 
 # Experiment 6: Priority Based CPU Scheduling Algorithm
