@@ -1,6 +1,6 @@
 ```c
-Name: Ritika Bhoyar
-PRN: 24070521225
+Name: Kashish gupta
+PRN: 24070521235
 ```
 
 # Experiment 1: Basic Linux Commands
